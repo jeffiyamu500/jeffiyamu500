@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffiyamu500
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Data Science/Python Programming
+- 🌱 I’m proficient in Python and SQL coding
 - 📫 How to reach me ...email jeffiyamu500@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I am ambidextrous
